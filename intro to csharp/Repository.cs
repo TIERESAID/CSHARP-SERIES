@@ -8,34 +8,34 @@ namespace Homework_01
 {
 
     /// <summary>
-    /// Организация хранения и генерации данных
+    /// Organization of data storage and generation
     /// </summary>
     class Repository
     {
         /// <summary>
-        /// База данных имён
+        /// name data base
         /// </summary>
         static readonly string[] firstNames;
 
         /// <summary>
-        /// База данных фамилий
+        /// first name data base
         /// </summary>
         static readonly string[] lastNames;
 
         /// <summary>
-        /// Генератор псевдослучайных чисел
+        /// Pseudo-random number generator
         /// </summary>
         static Random randomize;
 
         /// <summary>
-        /// Статический конструктор, в котором "хранятся"
-        /// данные о именах и фамилиях баз данных firstNames и lastNames
+        /// Static constructor, which "stores"
+        /// data on the first and last names of the databases firstNames and lastNames
         /// </summary>
         static Repository()
         {
-            randomize = new Random(); // Размещение в памяти генератора случайных чисел
+            randomize = new Random(); // Placement of a random number generator in memory
 
-            // Размещение имен в базе данных firstNames
+            // Placing names in the firstNames database
             firstNames = new string[] {
                 "Агата",
                 "Агнес",
@@ -46,7 +46,7 @@ namespace Homework_01
                 "Аманда",
             };
 
-            // Размещение фамилий в базе данных lastNames
+            // Place the last names in the lastNames database
             lastNames = new string[]
             {
                 "Иванова",
@@ -74,81 +74,80 @@ namespace Homework_01
         }
 
         /// <summary>
-        /// База данных работников, в которой хранятся 
-        /// Имя, фамилия, возраст и зарплаты каждого сотрудника
+        /// Employee database, which stores
+        /// Name, surname, age and salary of each employee
         /// </summary>
         public List<Worker> Workers { get; set; }
 
         /// <summary>
-        /// Конструктор, заполняющий базу данных Workers
+        /// Constructor that populates the Workers database
         /// </summary>
-        /// <param name="Count">Количество сотрудников, которых нужно создать</param>
+        /// <param name="Count">Number of employees to create</param>
         public Repository(int Count)
         {
-            this.Workers = new List<Worker>(); // Выделение памяти для хранения базы данных Workers
+            this.Workers = new List<Worker>(); // Allocate memory for storing the Worker databases
 
-            for (int i = 0; i < Count; i++)    // Заполнение базы данных Workers. Выполняется Count раз
+            for (int i = 0; i < Count; i++)    // Populating the Workers database. Runs Count times
             {
-                // Добавляем нового работника в базы данных Workers
+                // Add a new worker to the Workers database
                 this.Workers.Add(
                     new Worker(
-                        // выбираем случайное имя из базы данных имён
+                        // choose a random name from the name database
                         firstNames[Repository.randomize.Next(Repository.firstNames.Length)],
                         
-                        // выбираем случайное имя из базы данных фамилий
+                        // select a random name from the surname database
                         lastNames[Repository.randomize.Next(Repository.lastNames.Length)],
 
-                        // Генерируем случайный возраст в диапазоне 19 лет - 60 лет
+                        // Generate a random age in the range 19 years - 60 years
                         randomize.Next(19, 60),
 
-                        // Генерируем случайную зарплату в диапазоне 10000руб - 80000руб
+                        // Generate a random salary in the range of 10,000 rubles - 80,000 rubles
                         randomize.Next(10000, 80000)
                         ));
             }
         }
 
         /// <summary>
-        /// Метод вывода базы данных Workers в консоль
+        /// Method for outputting the Workers database to the console
         /// </summary>
-        /// <param name="Text">Вспомогательный текст, который будет напечатан перед выводом базы</param>
+        /// <param name="Text">Auxiliary text that will be printed before the base output</param>
         public void Print(string Text)
         {
-            Console.WriteLine(Text);    // Печать в консоль вспомогательного текста
+            Console.WriteLine(Text);    // Printing Help Text to the Console
 
-            // Изменяем цвет шрифта для печати в консоли на DarkBlue
+            // Change the font color for printing in the console to Dark Blue
             Console.ForegroundColor = ConsoleColor.DarkBlue; 
 
-            // Выводим Заголовки колонок базы данных
-            Console.WriteLine($"{"Имя",15} {"Фамилия",15} {"Возраст",10} {"Зарплата",15}");
+            // Displaying Database Column Headers
+            Console.WriteLine($"{"Name",15} {"Last Name",15} {"Age",10} {"Salary",15}");
 
-            // Изменяем цвет шрифта для печати в консоли на Gray
+            // Change font color for printing in console to Gray
             Console.ForegroundColor = ConsoleColor.Gray;
 
             
             foreach (var worker in this.Workers) //
-            {                                    // Печатаем в консоль всех работников
+            {                                    // We print all workers to the console
                 Console.WriteLine(worker);       //
             }                                    //
-
-            Console.WriteLine($"Итого: {this.Workers.Count}\n");    // Сводный отчёт. Сколько работников распечатано
+            Console.WriteLine($"Total: {this.Workers.Count}\n");    // Consolidated report. How many workers have been printed
         }
 
         /// <summary>
-        /// Метод, увольняющий работников с зарплатой больше заданной
+        /// Method that fires employees with more than a specified salary
         /// </summary>
-        /// <param name="MaxSalary">Уровень зарплаты работника, которых нужно уволить</param>
+        /// <param name="MaxSalary">The salary level of the employee to be fired</param>
         public void DeleteWorkerBySalary(int MaxSalary)
         {
-            this.Workers.RemoveAll(e => e.Salary > MaxSalary);//Удаление работников чья зарплата больше заданной MaxSalary
+            this.Workers.RemoveAll(e => e.Salary > MaxSalary);//Removing employees whose salary is higher than the specified MaxSalary
         }
 
         /// <summary>
-        /// Метод, увольняющий работников с заданным именем
+        /// Method that fires workers with a given name
         /// </summary>
-        /// <param name="CurrentName">Имя работников, которых нужно уволить</param>
+        /// <param name="CurrentName">Name of employees to be fired</param>
         public void DeleteWorkerByName(string CurrentName)
         {
-            this.Workers.RemoveAll(e => e.FirstName == CurrentName);//Удаление работников чьё имя Удовлетворяет выбранному CurrentName
+            this.Workers.RemoveAll(e => e.FirstName == CurrentName);//Removing workers whose name matches the selected CurrentName
         }
     }
 }
