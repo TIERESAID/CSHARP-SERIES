@@ -10,39 +10,37 @@ namespace Homework_01
     {
         static void Main(string[] args)
         {
-            // Создание базы данных из 20 сотрудников
-            Repository repository = new Repository(20);
+            // Create a database of X employees
+            Repository repository = new Repository(40);
 
-            // Печать в консоль всех сотрудников
-            repository.Print("База данных до преобразования");
+            // Show all employees
+            repository.Print("Database before Deletion");
 
-            // Увольнение всех работников с именем "Агата"
+            // Delete all name with name "Агата"
             repository.DeleteWorkerByName("Агата");
 
-            // Печать в консоль сотрудников, которые не попали под увольнение
-            repository.Print("База данных после первого преобразования");
+            // Print to the console of employees who did not get fired
+            repository.Print("Database after first Deletion");
 
-            // Увольнение всех работников с именем "Аделина"
+           // Delete all employees named "Аделина"
             repository.DeleteWorkerByName("Аделина");
 
-            // Печать в консоль сотрудников, которые не попали под увольнение
-            repository.Print("База данных после второго преобразования");
+            // Print to the console of employees who did not get fired
+            repository.Print("Database after second deletion");
 
 
-            #region Домашнее задание
+            #region Homework
 
-            // Уровень сложности: просто
-            // Задание 1. Переделать программу так, чтобы до первой волны увольнени в отделе было не более 20 сотрудников
+            // Difficulty level: simple
+            // *Task 1. Redesign the program so that before the first wave of dismissal in the department there were no more than 20 employees
 
-            // Уровень сложности: средняя сложность
-            // * Задание 2. Создать отдел из 40 сотрудников и реализовать несколько увольнений, по результатам
-            //              которых в отделе болжно остаться не более 30 работников
-
-            // Уровень сложности: сложно
-            // ** Задание 3. Создать отдел из 50 сотрудников и реализовать увольнение работников
-            //               чья зарплата превышает 30000руб
-
-
+            //  Difficulty level: medium difficulty
+            // * Task 2. Create a department of 40 employees and implement several layoffs, based on the results
+            // which in the department should not be more than 30 employees
+            
+            // Difficulty level: hard
+            // ** Task 3. Create a department of 50 employees and implement the dismissal of employees
+            // whose salary exceeds 30,000 rubles
 
             #endregion
 

@@ -7,49 +7,49 @@ using System.Threading.Tasks;
 namespace Homework_01
 {
     /// <summary>
-    /// Класс, описывающий модель работника
+    /// A class describing the worker model
     /// </summary>
     class Worker
     {
         /// <summary>
-        /// Имя работника
+        /// Employee name
         /// </summary>
         public string FirstName { get; set; }
 
         /// <summary>
-        /// Фамилия работника
+        /// /// Employee's surname
         /// </summary>
         public string LastName { get; set; }
 
         /// <summary>
-        /// Возраст работника
+        /// Employee age
         /// </summary>
         public int Age { get; set; }
 
         /// <summary>
-        /// Зарплата работника
+        /// Employee salary
         /// </summary>
         public int Salary { get; set; }
 
         /// <summary>
-        /// Конструктор, позволяющий присвоить значение соответствующим полям работника
+        /// A constructor that allows you to assign a value to the corresponding employee fields
         /// </summary>
-        /// <param name="FirstName">Имя</param>
-        /// <param name="LastName">Фамилия</param>
-        /// <param name="Age">Возраст</param>
-        /// <param name="Salary">Зарплата</param>
+        /// <param name="FirstName">FirstName</param>
+        /// <param name="LastName">LastName</param>
+        /// <param name="Age">Age</param>
+        /// <param name="Salary">Salary</param>
         public Worker(string FirstName, string LastName, int Age, int Salary)
         {
-            this.FirstName = FirstName; // Сохранить переданное значение имени
-            this.LastName = LastName;   // Сохранить переданное значение фамилии
-            this.Age = Age;             // Сохранить переданное значение возраста
-            this.Salary = Salary;       // Сохранить переданное значение зарплаты
+            this.FirstName = FirstName; // Store passed name value
+            this.LastName = LastName;   // Store passed last name value
+            this.Age = Age;             // Save passed age value
+            this.Salary = Salary;       // Save the transferred salary value
         }
 
         /// <summary>
-        /// Организация вывода информации о работнике
+        /// Organization of the output of information about the employee
         /// </summary>
-        /// <returns>Строковое представление информации</returns>
+        /// <returns>String representation of information</returns>
         public override string ToString()
         {
             return $"{FirstName,15} {LastName,15} {Age,10} {Salary.ToString("## ###"),10} руб.";

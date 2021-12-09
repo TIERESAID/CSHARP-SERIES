@@ -1,14 +1,14 @@
-            // // Печать в консоль всех сотрудников
-            // repository.Print("База данных до преобразования");
+            // // Print all employees to the console
+            // repository.Print ("Database before conversion");
 
-            // // Увольнение всех работников с именем "Агата"
-            // repository.DeleteWorkerByName("Агата");
+            // // Dismissal of all workers named "Агата"
+            // repository.DeleteWorkerByName ("Агата");
 
-            // // Печать в консоль сотрудников, которые не попали под увольнение
-            // repository.Print("База данных после первого преобразования");
+            // // Print to the console of employees who did not get fired
+             // repository.Print ("Database after first transformation");
 
-            // // Увольнение всех работников с именем "Аделина"
-            // repository.DeleteWorkerByName("Аделина");
+            // // Dismissal of all workers named "Аделина"
+             // repository.DeleteWorkerByName ("Аделина");
 
-            // // Печать в консоль сотрудников, которые не попали под увольнение
-            // repository.Print("База данных после второго преобразования");
+            // // Print to the console of employees who did not get fired
+             // repository.Print ("Database after second transformation");  
