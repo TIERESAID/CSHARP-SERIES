@@ -1,0 +1,15 @@
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/bin/Debug/net5.0/intro.deps.json
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/bin/Debug/net5.0/intro.runtimeconfig.json
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/bin/Debug/net5.0/intro.runtimeconfig.dev.json
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/bin/Debug/net5.0/intro.dll
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/bin/Debug/net5.0/ref/intro.dll
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/bin/Debug/net5.0/intro.pdb
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/obj/Debug/net5.0/intro.csproj.AssemblyReference.cache
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/obj/Debug/net5.0/intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/obj/Debug/net5.0/intro.AssemblyInfoInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/obj/Debug/net5.0/intro.AssemblyInfo.cs
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/obj/Debug/net5.0/intro.csproj.CoreCompileInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/obj/Debug/net5.0/intro.dll
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/obj/Debug/net5.0/ref/intro.dll
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/obj/Debug/net5.0/intro.pdb
+/Users/chimistemignon/Desktop/C# essential training /intro to csharp/obj/Debug/net5.0/intro.genruntimeconfig.cache
