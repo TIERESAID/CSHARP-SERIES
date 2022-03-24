@@ -1,0 +1,30 @@
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/bin/Debug/net5.0/Basic.deps.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/bin/Debug/net5.0/Basic.runtimeconfig.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/bin/Debug/net5.0/Basic.runtimeconfig.dev.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/bin/Debug/net5.0/Basic.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/bin/Debug/net5.0/ref/Basic.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/bin/Debug/net5.0/Basic.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/obj/Debug/net5.0/Basic.csproj.AssemblyReference.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/obj/Debug/net5.0/Basic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/obj/Debug/net5.0/Basic.AssemblyInfoInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/obj/Debug/net5.0/Basic.AssemblyInfo.cs
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/obj/Debug/net5.0/Basic.csproj.CoreCompileInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/obj/Debug/net5.0/Basic.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/obj/Debug/net5.0/ref/Basic.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/obj/Debug/net5.0/Basic.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/Basic/obj/Debug/net5.0/Basic.genruntimeconfig.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/bin/Debug/net5.0/Basic.deps.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/bin/Debug/net5.0/Basic.runtimeconfig.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/bin/Debug/net5.0/Basic.runtimeconfig.dev.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/bin/Debug/net5.0/Basic.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/bin/Debug/net5.0/ref/Basic.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/bin/Debug/net5.0/Basic.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/obj/Debug/net5.0/Basic.csproj.AssemblyReference.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/obj/Debug/net5.0/Basic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/obj/Debug/net5.0/Basic.AssemblyInfoInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/obj/Debug/net5.0/Basic.AssemblyInfo.cs
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/obj/Debug/net5.0/Basic.csproj.CoreCompileInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/obj/Debug/net5.0/Basic.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/obj/Debug/net5.0/ref/Basic.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/obj/Debug/net5.0/Basic.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/2. Basic features of C #/obj/Debug/net5.0/Basic.genruntimeconfig.cache
