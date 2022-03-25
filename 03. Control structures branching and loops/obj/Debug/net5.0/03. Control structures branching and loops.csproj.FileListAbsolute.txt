@@ -1,0 +1,15 @@
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/bin/Debug/net5.0/03. Control structures branching and loops.deps.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/bin/Debug/net5.0/03. Control structures branching and loops.runtimeconfig.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/bin/Debug/net5.0/03. Control structures branching and loops.runtimeconfig.dev.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/bin/Debug/net5.0/03. Control structures branching and loops.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/bin/Debug/net5.0/ref/03. Control structures branching and loops.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/bin/Debug/net5.0/03. Control structures branching and loops.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/obj/Debug/net5.0/03. Control structures branching and loops.csproj.AssemblyReference.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/obj/Debug/net5.0/03. Control structures branching and loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/obj/Debug/net5.0/03. Control structures branching and loops.AssemblyInfoInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/obj/Debug/net5.0/03. Control structures branching and loops.AssemblyInfo.cs
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/obj/Debug/net5.0/03. Control structures branching and loops.csproj.CoreCompileInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/obj/Debug/net5.0/03. Control structures branching and loops.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/obj/Debug/net5.0/ref/03. Control structures branching and loops.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/obj/Debug/net5.0/03. Control structures branching and loops.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/03. Control structures branching and loops/obj/Debug/net5.0/03. Control structures branching and loops.genruntimeconfig.cache
