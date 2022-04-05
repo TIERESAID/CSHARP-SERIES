@@ -28,3 +28,43 @@
             //
             // Worst profit in months: 7, 4, 1, 5, 12
             // Months with positive profit: 10
+            
+            
+            
+        //  Exercice 2 
+        // The customer needs an application that allows you to multiply a mathematical matrix by a number
+        // Help https://ru.wikipedia.org/wiki/Matrix_(mathematics)
+        // Help https://ru.wikipedia.org/wiki/Matrix_(mathematics)#Matrix_multiply_by_number
+        // Add the ability to enter the number of rows and columns of the matrix and the number
+        // by which the multiplication will be performed.
+        // Matrices are filled in automatically.
+        // If it is impossible to perform an action based on the data entered by the user, report this
+        //
+        // Example
+        //
+        // | 1 3 5 | | 5 15 25 |
+        // 5 x | 4 5 7 | = | 20 25 35 |
+        // | 5 3 1 | | 25 15 5 |
+        //
+
+        // Exercice 3
+        // *** Task 3.3
+        // Customer needs an application that allows multiplication of mathematical matrices
+        // Help https://ru.wikipedia.org/wiki/Matrix_(mathematics)
+        // Help https://ru.wikipedia.org/wiki/Matrix_(mathematics)#Matrix_multiplication
+        // Add the ability to enter the number of rows and columns of the matrix.
+        // Matrices are filled in automatically
+        // If an action cannot be performed on the data entered by the user, report this
+        //
+        // | 1 3 5 | | 1 3 4 | | 22 48 57 |
+        // | 4 5 7 | x | 2 5 6 | = | 35 79 95 |
+        // | 5 3 1 | | 3 6 7 | | 14 36 45 |
+        //
+        //
+        // | 4 |
+        // | 1 2 3 | x | 5 | = | 32 |
+        // | 6 |
+        //
+        #endregion
+         
+        
