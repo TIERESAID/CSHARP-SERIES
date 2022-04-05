@@ -1,0 +1,15 @@
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/bin/Debug/net5.0/04. Arrays.deps.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/bin/Debug/net5.0/04. Arrays.runtimeconfig.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/bin/Debug/net5.0/04. Arrays.runtimeconfig.dev.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/bin/Debug/net5.0/04. Arrays.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/bin/Debug/net5.0/ref/04. Arrays.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/bin/Debug/net5.0/04. Arrays.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/obj/Debug/net5.0/04. Arrays.csproj.AssemblyReference.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/obj/Debug/net5.0/04. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/obj/Debug/net5.0/04. Arrays.AssemblyInfoInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/obj/Debug/net5.0/04. Arrays.AssemblyInfo.cs
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/obj/Debug/net5.0/04. Arrays.csproj.CoreCompileInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/obj/Debug/net5.0/04. Arrays.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/obj/Debug/net5.0/ref/04. Arrays.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/obj/Debug/net5.0/04. Arrays.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/04. Arrays/obj/Debug/net5.0/04. Arrays.genruntimeconfig.cache
