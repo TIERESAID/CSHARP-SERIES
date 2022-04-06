@@ -1,0 +1,15 @@
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/bin/Debug/net5.0/06. Work with file.deps.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/bin/Debug/net5.0/06. Work with file.runtimeconfig.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/bin/Debug/net5.0/06. Work with file.runtimeconfig.dev.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/bin/Debug/net5.0/06. Work with file.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/bin/Debug/net5.0/ref/06. Work with file.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/bin/Debug/net5.0/06. Work with file.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/obj/Debug/net5.0/06. Work with file.csproj.AssemblyReference.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/obj/Debug/net5.0/06. Work with file.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/obj/Debug/net5.0/06. Work with file.AssemblyInfoInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/obj/Debug/net5.0/06. Work with file.AssemblyInfo.cs
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/obj/Debug/net5.0/06. Work with file.csproj.CoreCompileInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/obj/Debug/net5.0/06. Work with file.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/obj/Debug/net5.0/ref/06. Work with file.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/obj/Debug/net5.0/06. Work with file.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/06. Work with file/obj/Debug/net5.0/06. Work with file.genruntimeconfig.cache
