@@ -1,0 +1,15 @@
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/obj/Debug/net5.0/07. Structures and introduction to OOP.csproj.AssemblyReference.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/obj/Debug/net5.0/07. Structures and introduction to OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/obj/Debug/net5.0/07. Structures and introduction to OOP.AssemblyInfoInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/obj/Debug/net5.0/07. Structures and introduction to OOP.AssemblyInfo.cs
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/obj/Debug/net5.0/07. Structures and introduction to OOP.csproj.CoreCompileInputs.cache
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/bin/Debug/net5.0/07. Structures and introduction to OOP.deps.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/bin/Debug/net5.0/07. Structures and introduction to OOP.runtimeconfig.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/bin/Debug/net5.0/07. Structures and introduction to OOP.runtimeconfig.dev.json
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/bin/Debug/net5.0/07. Structures and introduction to OOP.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/bin/Debug/net5.0/ref/07. Structures and introduction to OOP.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/bin/Debug/net5.0/07. Structures and introduction to OOP.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/obj/Debug/net5.0/07. Structures and introduction to OOP.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/obj/Debug/net5.0/ref/07. Structures and introduction to OOP.dll
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/obj/Debug/net5.0/07. Structures and introduction to OOP.pdb
+/Users/chimistemignon/Desktop/C# essential training /Skillbox/07. Structures and introduction to OOP/obj/Debug/net5.0/07. Structures and introduction to OOP.genruntimeconfig.cache
